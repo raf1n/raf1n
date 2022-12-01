@@ -2,6 +2,14 @@
 <h1 align="center">Hi 👋, I'm Rahim Uddin Rafin</h1>
 <h3 align="center">A passionate MERN developer</h3>
 
+<p align="center">
+  <em>
+    I'm Rahim Uddin Rafin, a final-year student at the International Islamic University of Chittagong</a>. <br>
+    <b>a committed self-learner and developer using the MERN stack who is obsessed with web technologies and is constantly searching for solutions to challenging development issues 
+  </em> 
+  <br>
+</p>
+
 ## :sassy_man:  About me
 - :school: I am a outgoing undergrad at Faculty of Computer Sciene & Engineering at IIUC.
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1k5SSg4iDgj8wutEM8BjrC77Kh0QfTWc_/view?usp=share_link).
