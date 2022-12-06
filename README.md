@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/raf1n/raf1n/main/gitprofilebanner.jpg" height="350" width="700"/>
 </p>
-<h1 align="center">Hi 👋, I'm Rahim Uddin Rafin</h1>
+<h1 align="center"><b>Hi , I'm Rahim Uddin Rafin </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">A passionate MERN developer</h3>
 
 <p align="center">
