@@ -6,7 +6,7 @@
 
 <p align="center">
   <em>
-    I'm Rahim Uddin Rafin, a final-year student at the International Islamic University Chittagong</a>. <br>
+    I'm a final-year student at the International Islamic University Chittagong</a>. <br>
     <b>a committed self-learner and developer using the MERN stack who is obsessed with web technologies and is constantly searching for solutions to challenging development issues 
   </em> 
   <br>
