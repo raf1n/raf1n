@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/raf1n/raf1n/main/githubprofile.jpg" height="230"/>
 </p>
-<h1 align="center">Hi 👋, I'm Rahim Uddin Rafin</h1>
 <h3 align="center">A passionate MERN developer</h3>
 
 <p align="center">
