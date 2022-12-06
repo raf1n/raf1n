@@ -6,14 +6,14 @@
 
 <p align="center">
   <em>
-    I'm Rahim Uddin Rafin, a final-year student at the International Islamic University of Chittagong</a>. <br>
+    I'm Rahim Uddin Rafin, a final-year student at the International Islamic University Chittagong</a>. <br>
     <b>a committed self-learner and developer using the MERN stack who is obsessed with web technologies and is constantly searching for solutions to challenging development issues 
   </em> 
   <br>
 </p>
 
 ## :sassy_man:  About me
-- :school: I am a outgoing undergrad at Faculty of Computer Sciene & Engineering at IIUC.
+- :school: I am a outgoing undergrad at Faculty of Computer Science & Engineering at IIUC.
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`.
 - 📫 How to reach me **rahim.rafin.1@gmail.com**
 - :nerd_face: Always `learning new things`
