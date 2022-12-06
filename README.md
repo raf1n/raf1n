@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/raf1n/raf1n/main/githubprofile.jpg" height="300"/>
+  <img src="https://raw.githubusercontent.com/raf1n/raf1n/main/githubprofile.jpg" height="250"/>
 </p>
 <h3 align="center">A passionate MERN developer</h3>
 
@@ -13,7 +13,7 @@
 
 ## :sassy_man:  About me
 - :school: I am a outgoing undergrad at Faculty of Computer Sciene & Engineering at IIUC.
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1k5SSg4iDgj8wutEM8BjrC77Kh0QfTWc_/view?usp=share_link).
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1UUPRV1UET5cNGIuhMfnSr4b3dSo6YZTh/view?usp=sharing).
 - :nerd_face: Always `learning new things`
 
 <br>
