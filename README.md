@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/raf1n/raf1n/main/githubprofile.jpg" height="250"/>
+  <img src="https://raw.githubusercontent.com/raf1n/raf1n/main/gitprofilebanner.jpg" height="350" width="700"/>
 </p>
 <h3 align="center">A passionate MERN developer</h3>
 
