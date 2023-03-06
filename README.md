@@ -6,15 +6,15 @@
 
 <p align="center">
   <em>
-    I'm a final-year student at the International Islamic University Chittagong</a>. <br>
+    I'm a CS Graduate of the International Islamic University Chittagong</a>. <br>
     <b>a committed self-learner and developer using the MERN stack who is obsessed with web technologies and is constantly searching for solutions to challenging development issues 
   </em> 
   <br>
 </p>
 
 ## :sassy_man:  About me
-- :school: I am a outgoing undergrad at Faculty of Computer Science & Engineering at IIUC.
-- :thinking: I’m currently open for: A `new` job opportunity.
+- :school: I earned a bachelor's degree in Computer Science and Engineering from IIUC.
+- :thinking: I’m currently open for: `A new job opportunity.`
 - 📫 How to reach me **rahim.rafin.1@gmail.com**
 - :nerd_face: Always `learning new things`
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1UUPRV1UET5cNGIuhMfnSr4b3dSo6YZTh/view?usp=sharing" target="blank">Resume</a>
