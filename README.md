@@ -17,7 +17,7 @@
 - :thinking: I’m currently open for: `A new job opportunity.`
 - 📫 How to reach me **rahim.rafin.1@gmail.com**
 - :nerd_face: Always `learning new things`
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1UUPRV1UET5cNGIuhMfnSr4b3dSo6YZTh/view?usp=sharing" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1CsnyzvLBnyC8ZvgCk5hodk9_2AG-JRIH/view?usp=sharing" target="blank">Resume</a>
 <h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <p align="center">
 <a href="https://linkedin.com/in/rahimuddinrafin00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahimuddinrafin00" height="30" width="40" /></a>
