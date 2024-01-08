@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/raf1n/raf1n/main/gitprofilebanner.jpg" height="350" width="700"/>
 </p>
 <h1 align="center"><b>Hi , I'm Rahim Uddin Rafin </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">A passionate MERN developer</h3>
+<h3 align="center">A passionate Software developer</h3>
 
 <p align="center">
   <em>
@@ -17,7 +17,7 @@
 - :thinking: I’m currently open for: `A new job opportunity.`
 - 📫 How to reach me **rahim.rafin.1@gmail.com**
 - :nerd_face: Always `learning new things`
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1CsnyzvLBnyC8ZvgCk5hodk9_2AG-JRIH/view?usp=sharing" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="[https://drive.google.com/file/d/1CsnyzvLBnyC8ZvgCk5hodk9_2AG-JRIH/view?usp=sharing](https://drive.google.com/file/d/1L16r9QbkHyjZpc_fp2ZY4qR-l2rBu44X/view)" target="blank">Resume</a>
 <h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <p align="center">
 <a href="https://linkedin.com/in/rahimuddinrafin00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahimuddinrafin00" height="30" width="40" /></a>
