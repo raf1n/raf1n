@@ -1,20 +1,17 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/raf1n/raf1n/main/gitprofilebanner.jpg" height="350" width="700"/>
-</p>
 <h1 align="center"><b>Hi , I'm Rahim Uddin Rafin </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">A passionate Software developer</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 <p align="center">
   <em>
     I'm a CS Graduate of the International Islamic University Chittagong</a>. <br>
-    <b>a committed self-learner and developer using the MERN stack who is obsessed with web technologies and is constantly searching for solutions to challenging development issues 
+    <b>A committed self-learner and developer proficient in the MERN stack, relational databases, NestJS, and Next.js. Passionate about web technologies, constantly seeking innovative solutions to complex development challenges.
   </em> 
   <br>
 </p>
 
 ## :sassy_man:  About me
 - :school: I earned a bachelor's degree in Computer Science and Engineering from IIUC.
-- :thinking: I’m currently open for: `A new job opportunity.`
+- :thinking: I’m currently working as a `Software Engineer`
 - 📫 How to reach me **rahim.rafin.1@gmail.com**
 - :nerd_face: Always `learning new things`
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1L16r9QbkHyjZpc_fp2ZY4qR-l2rBu44X/view" target="_blank">Resume</a>
