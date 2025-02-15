@@ -14,7 +14,7 @@
 - :thinking: I’m currently working as a `Software Engineer`
 - 📫 How to reach me **rahim.rafin.1@gmail.com**
 - :nerd_face: Always `learning new things`
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1o9wr4-gztlttPztTUDRatKB_hWdc2vld/view" target="_blank">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1WQIMyXl9iPiqqcuzVBURVGWlYScWLzZh/view?usp=sharing" target="_blank">Resume</a>
 <h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <p align="center">
 <a href="https://linkedin.com/in/rahimuddinrafin00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahimuddinrafin00" height="30" width="40" /></a>
