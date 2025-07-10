@@ -3,7 +3,6 @@
 
 <p align="center">
   <em>
-    I'm a CS Graduate of the International Islamic University Chittagong</a>. <br>
     <b>A committed self-learner and developer proficient in the MERN stack, relational databases, NestJS, and Next.js. Passionate about web technologies, constantly seeking innovative solutions to complex development challenges.
   </em> 
   <br>
